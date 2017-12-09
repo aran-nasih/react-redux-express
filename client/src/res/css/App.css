@@ -1,0 +1,9 @@
+body {
+  font-family: monospace;
+  font-size: 1.2em;
+  color: rgb(97, 0, 153);
+}
+
+.section-header {
+  color: #8c00ff;
+}
